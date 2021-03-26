@@ -3,12 +3,12 @@ entries:
   github-actions-exporter:
   - apiVersion: v2
     appVersion: 1.5.3
-    created: "2021-03-26T14:56:03.58646Z"
+    created: "2021-03-26T15:20:14.506079Z"
     description: A Helm chart for Kubernetes
-    digest: 49a1bef720d9bc6b81c9457c11116600701cbdd3d25a033b9694b55f209e3754
+    digest: 08288d619c650294475099022d5424c5482cd90cff2c6bb05ee3b282d718eced
     name: github-actions-exporter
     type: application
     urls:
     - https://neillturner.github.io/helm-charts/github-actions-exporter-0.1.1.tgz
     version: 0.1.1
-generated: "2021-03-26T14:56:03.582092Z"
+generated: "2021-03-26T15:20:14.504504Z"
