@@ -3,17 +3,27 @@ entries:
   actions-runner-controller:
   - apiVersion: v2
     appVersion: 0.18.2
-    created: "2021-05-11T15:22:59.095173+01:00"
+    created: "2021-05-13T15:47:42.878694+01:00"
     description: A Kubernetes controller that operates self-hosted runners for GitHub Actions on your Kubernetes cluster.
-    digest: 83da61f8654df6ff1ead4659045fffce03a4b0c6cec36f2bc8d658387e1b1b6a
+    digest: 8c5796e983597a3b66c578145c0ad8b67513790157f6e954c46531278c3047dc
+    home: https://github.com/summerwind/actions-runner-controller
+    maintainers:
+    - email: contact@summerwind.jp
+      name: summerwind
+      url: https://github.com/summerwind
+    - email: davidy@funkypenguin.co.nz
+      name: funkypenguin
+      url: https://www.funkypenguin.co.nz
     name: actions-runner-controller
+    sources:
+    - https://github.com/summerwind/actions-runner-controller
     type: application
     urls:
     - https://neillturner.github.io/helm-charts/actions-runner-controller-0.12.0.tgz
     version: 0.12.0
   - apiVersion: v2
     appVersion: 0.18.2
-    created: "2021-05-11T15:22:59.092617+01:00"
+    created: "2021-05-13T15:47:42.876258+01:00"
     description: A Kubernetes controller that operates self-hosted runners for GitHub Actions on your Kubernetes cluster.
     digest: af9b9059f102b8b5f7387a5afc4e188577dd6aa1fa7bd0e523db7e20bd892cc2
     name: actions-runner-controller
@@ -23,7 +33,7 @@ entries:
     version: 0.11.5
   - apiVersion: v2
     appVersion: 0.18.2
-    created: "2021-05-11T15:22:59.088165+01:00"
+    created: "2021-05-13T15:47:42.871435+01:00"
     description: A Kubernetes controller that operates self-hosted runners for GitHub Actions on your Kubernetes cluster.
     digest: 133df22d1f9e59f9e2d6d52343f8f456b3ab692dd9c4c120280d858c9fee7b05
     name: actions-runner-controller
@@ -34,7 +44,7 @@ entries:
   github-actions-exporter:
   - apiVersion: v2
     appVersion: 1.8.0
-    created: "2021-05-11T15:22:59.096237+01:00"
+    created: "2021-05-13T15:47:42.880207+01:00"
     description: github-actions exporter for prometheus
     digest: 0d7105e06267b7aae61496c93f836fff06c089a2af0e78e3e3a18df57ec38c1a
     name: github-actions-exporter
@@ -44,7 +54,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 1.5.3
-    created: "2021-05-11T15:22:59.095703+01:00"
+    created: "2021-05-13T15:47:42.879443+01:00"
     description: A Helm chart for Kubernetes
     digest: 4633bd28a44a0c82d557f811a6b9f67378575d8ba657788fd6ab05df3ecf72b8
     name: github-actions-exporter
@@ -52,4 +62,4 @@ entries:
     urls:
     - https://neillturner.github.io/helm-charts/github-actions-exporter-0.1.2.tgz
     version: 0.1.2
-generated: "2021-05-11T15:22:59.084894+01:00"
+generated: "2021-05-13T15:47:42.867138+01:00"
